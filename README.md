@@ -9,7 +9,11 @@ FlowDown is a blazing fast and smooth client app for using AI/LLM.
 
 **We're currently testing the Mac version of FlowDown Community.**
 
-**We are working hard to get features done and might not be able to response to you quickly.**
+## Keep in touch
+
+Please consider join our discussion on [Discord](https://discord.gg/Y2YEzNEH). We are working hard to get features done and might not be able to response to you quickly.
+
+## Preview
 
 ![Preview](./Resources/SCR-20250115-lvgw.jpeg)
 
