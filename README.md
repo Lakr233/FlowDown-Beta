@@ -2,7 +2,14 @@
 
 FlowDown is a blazing fast and smooth client app for using AI/LLM.
 
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="/Resources/i18n/zh-Hans/README.md">简体中文</a>
+</p>
+
 **We're currently testing the Mac version of FlowDown Community.**
+
+**We are working hard to get features done and might not be able to response to you quickly.**
 
 ![Preview](./Resources/SCR-20250115-lvgw.jpeg)
 
@@ -19,16 +26,16 @@ FlowDown is a blazing fast and smooth client app for using AI/LLM.
 
 We offer two editions of FlowDown: **FlowDown Pro** and **FlowDown Community**.
 
-| **Feature** | **FlowDown Pro** | **FlowDown Community** |
-| --- | --- | --- |
-| Chat with AI | ✅ | ✅ |
-| Fast Markdown | ✅ | ✅ |
-| Privacy by Design | ✅ | ✅ |
-| Bring Your Own LLM | ✅ | ✅ |
-| Open-Source | ❌ | ✅ |
-| Web Search | ✅ | ❌ |
-| Documents Analysis | ✅ | ❌ |
-| Language Localization | ✅ | ❌ |
+| **Feature**           | **FlowDown Pro** | **FlowDown Community** |
+| --------------------- | ---------------- | ---------------------- |
+| Chat with AI          | ✅               | ✅                     |
+| Fast Markdown         | ✅               | ✅                     |
+| Privacy by Design     | ✅               | ✅                     |
+| Bring Your Own LLM    | ✅               | ✅                     |
+| Open-Source           | ❌               | ✅                     |
+| Web Search            | ✅               | ❌                     |
+| Documents Analysis    | ✅               | ❌                     |
+| Language Localization | ✅               | ❌                     |
 
 **Open Source Notice**
 
@@ -45,7 +52,7 @@ We offer two editions of FlowDown: **FlowDown Pro** and **FlowDown Community**.
 
 **FlowDown Community** requires an OpenAI compatible service provider. You'll need to bring your own Large Language Model (LLM) service provider and set it up with the app.
 
-Have a look in setting pages for more information.  
+Have a look in setting pages for more information.
 
 ### Installation
 
