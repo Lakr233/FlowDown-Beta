@@ -6,7 +6,7 @@ FlowDown 是一个速度极快、平滑的 AI/LLM 客户端应用程序。
 
 ## 保持联系
 
-请考虑加入我们的聊天：[Discord](https://discord.gg/Y2YEzNEH)。我们正在努力完成功能，可能无法及时回复您。
+请考虑加入我们的聊天：[Discord](https://discord.gg/jBspK4Ay)。我们正在努力完成功能，可能无法及时回复您。
 
 ## 预览
 
