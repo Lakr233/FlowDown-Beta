@@ -11,7 +11,7 @@ FlowDown is a blazing fast and smooth client app for using AI/LLM.
 
 ## Keep in touch
 
-Please consider join our discussion on [Discord](https://discord.gg/Y2YEzNEH). We are working hard to get features done and might not be able to response to you quickly.
+Please consider join our discussion on [Discord](https://discord.gg/jBspK4Ay). We are working hard to get features done and might not be able to response to you quickly.
 
 ## Preview
 
