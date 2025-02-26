@@ -36,9 +36,10 @@ We offer two editions of FlowDown: **FlowDown Pro** and **FlowDown Community**.
 | Fast Markdown         | ✅               | ✅                     |
 | Privacy by Design     | ✅               | ✅                     |
 | Bring Your Own LLM    | ✅               | ✅                     |
+| Offline LLM w/ MLX    | ✅               | ❌                     |
 | Open-Source           | ❌               | ✅                     |
 | Web Search            | ✅               | ❌                     |
-| Documents Analysis    | ✅               | ❌                     |
+| Attachments           | ✅               | ❌                     |
 | Language Localization | ✅               | ❌                     |
 
 **Open Source Notice**
@@ -49,8 +50,8 @@ We offer two editions of FlowDown: **FlowDown Pro** and **FlowDown Community**.
 
 ### System Requirements
 
-- iOS 15.0 or later
-- macOS 12.0 or later
+- iOS 16.0 or later
+- macOS 13.0 or later
 
 **Important Note**
 
