@@ -7,7 +7,7 @@ FlowDown is a blazing fast and smooth client app for using AI/LLM.
   <a href="/Resources/i18n/zh-Hans/README.md">简体中文</a>
 </p>
 
-**We're currently testing the Mac version of FlowDown Community.**
+**At this time, we are currently testing FlowDown on iOS and macOS. All features are complete except for Tool Call functionality.**
 
 ## Keep in touch
 
@@ -37,6 +37,7 @@ We offer two editions of FlowDown: **FlowDown Pro** and **FlowDown Community**.
 | Privacy by Design     | ✅               | ✅                     |
 | Bring Your Own LLM    | ✅               | ✅                     |
 | Offline LLM w/ MLX    | ✅               | ❌                     |
+| Visual LLM            | ✅               | ❌                     |
 | Open-Source           | ❌               | ✅                     |
 | Web Search            | ✅               | ❌                     |
 | Attachments           | ✅               | ❌                     |
