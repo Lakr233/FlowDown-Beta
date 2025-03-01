@@ -2,7 +2,7 @@
 
 FlowDown 是一个速度极快、平滑的 AI/LLM 客户端应用程序。
 
-**目前，我们正在 iOS 和 macOS 上测试 FlowDown。除了工具调用功能外，所有功能均已完成。**
+**目前，我们正在 iOS 和 macOS 上测试 FlowDown。所有功能均已完成。**
 
 
 ## 保持联系
